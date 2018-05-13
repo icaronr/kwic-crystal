@@ -1,10 +1,16 @@
 INPUTFILE  = ./res/papers.txt
-OUTPUTFILE = ./out/test-res.txt
+OUTPUTFILE = ./res/teste.txt
 STOPWORDS  = ./res/stop_words.txt
 
 ARGS       = $(INPUTFILE) $(OUTPUTFILE) $(STOPWORDS)
 
-FLAGS =
+# possisveis flags de entrada:
+ENTRADA = 
+# possiveis flags de saida: 
+TERMINAL = --define terminal
+ARQUIVO = --define arquivo
+
+FLAGS	= $(ENTRADA) $(TERMINAL) $(ARQUIVO)
 
 all: run
 

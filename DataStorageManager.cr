@@ -1,4 +1,4 @@
-
+ 
 module DataStorageManager
     class DataStorageManager
         @lines : Array(String)

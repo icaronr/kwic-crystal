@@ -11,14 +11,25 @@ class Program
   def initialize(
     @inputfile  = "./res/papers.txt",
     @outputfile = "./res/test-res.txt",
-    @stopword   : String? = nil)
+    @stopword   : String? = nil,
+    @saida = "Registro de saída em aquivo\n"
     # @stopwords  = "./res/stop_words.txt")
+    )
   end
 
   def showStartup
+    #Saida no terminal
+    {% if flag?(:terminal) %}
     puts "- Input File  : #{@inputfile}"
     puts "- Output File : #{@outputfile}"
     puts "- Stop Word   : #{@stopword}" unless !@stopword
+    {% end %}
+    #Saida em arquivo
+    {% if flag?(:arquivo) %}
+    @saida += "- Input File  : #{@inputfile}\n"
+    @saida += "- Output File : #{@outputfile}\n"
+    @saida += "- Stop Word   : #{@stopword}\n" unless !@stopword
+    {% end %}
   end
 
 
@@ -49,8 +60,14 @@ class Program
     sorted_words.skip(3).each do |w|
       
       tab = longest_word_size - w.size
-
+      #Saida no terminal
+      {% if flag?(:terminal) %}
       puts "\nWord: #{w}"
+      {% end %}
+      #Saida em arquivo
+      {% if flag?(:arquivo) %}
+      @saida += "\nWord: #{w}\n"
+      {% end %}
       im.occurrencesOfWord(w).map_with_index do |(line,pos), i|
         
         # Test Printing
@@ -63,8 +80,19 @@ class Program
         # Shift
         header = "\t- [#{w} (#{i})]:"
         tab.times { header += " " }
+        #Saida no terminal
+        {% if flag?(:terminal) %}
         puts "#{header} #{shift(line.split(' '), pos, 0).to_s}"
+        {% end %}
+        #Saida em arquivo
+        {% if flag?(:arquivo) %}
+        @saida += "#{header} #{shift(line.split(' '), pos, 0).to_s}\n"
+        {% end %}
       end
     end
+    #Escreve a saida no arquivo
+    {% if flag?(:arquivo) %}
+    File.write(@outputfile, @saida)
+    {% end %}
   end
 end

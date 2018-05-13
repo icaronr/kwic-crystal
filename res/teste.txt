@@ -1,0 +1,740 @@
+Registro de saída em aquivo
+- Input File  : ./res/papers.txt
+- Output File : ./res/teste.txt
+- Stop Word   : ./res/stop_words.txt
+
+Word: A
+	- [A (0)]:           ["A", "Delta", "Oriented", "Approach", "to", "the", "Evolution", "and", "Reconciliation", "of", "Enterprise", "Software", "Products", "Lines"]
+	- [A (1)]:           ["A", "formal", "foundation", "for", "dynamic", "delta-oriented", "software", "product", "lines"]
+	- [A (2)]:           ["A", "Liskov", "Principle", "for", "Delta-Oriented", "Programming"]
+	- [A (3)]:           ["A", "transformational", "proof", "system", "for", "delta-oriented", "programming"]
+	- [A (4)]:           ["A", "Delta-Based", "Modeling", "Framework", "for", "Software", "Product", "Line", "Engineering", "SiPL", "-"]
+	- [A (5)]:           ["A", "novel", "model-based", "testing", "approach", "for", "software", "product", "lines"]
+	- [A (6)]:           ["A", "UML", "profile", "for", "delta-oriented", "programming", "to", "support", "software", "product", "line", "engineering"]
+	- [A (7)]:           ["A", "core", "calculus", "for", "behavioral", "change", "DeltaCCS:"]
+	- [A (8)]:           ["A", "tool", "environment", "for", "quality", "assurance", "of", "delta-oriented", "model-based", "SPLs"]
+	- [A (9)]:           ["A", "unified", "and", "formal", "programming", "model", "for", "deltas", "and", "traits"]
+	- [A (10)]:           ["A", "case", "study", "Unanticipated", "evolution", "in", "software", "product", "lines", "versus", "independent", "products:"]
+
+Word: ABS
+	- [ABS (0)]:         ["ABS", "language", "Variability", "modelling", "in", "the"]
+	- [ABS (1)]:         ["ABS", "toolchain", "with", "a", "mechanism", "for", "type", "checking", "SPLs", "An", "extension", "of", "the"]
+
+Word: An
+	- [An (0)]:          ["An", "example", "scenario", "and", "case", "study", "Implementing", "delta-oriented", "SPLs", "using", "PEoPL:"]
+	- [An (1)]:          ["An", "extension", "of", "the", "ABS", "toolchain", "with", "a", "mechanism", "for", "type", "checking", "SPLs"]
+
+Word: Analysis
+	- [Analysis (0)]:    ["Analysis", "of", "Type", "Safety", "for", "Delta-Oriented", "Software", "Product", "Lines", "Family-Based"]
+
+Word: Approach
+	- [Approach (0)]:    ["Approach", "to", "the", "Evolution", "and", "Reconciliation", "of", "Enterprise", "Software", "Products", "Lines", "A", "Delta", "Oriented"]
+
+Word: Architectures
+	- [Architectures (0)]: ["Architectures", "Evolving", "Delta-Oriented", "Software", "Product", "Line"]
+
+Word: Artifacts
+	- [Artifacts (0)]:   ["Artifacts", "Parametric", "DeltaJ", "1.5:", "Propagating", "Feature", "Attributes", "into", "Implementation"]
+
+Word: Attributes
+	- [Attributes (0)]:  ["Attributes", "into", "Implementation", "Artifacts", "Parametric", "DeltaJ", "1.5:", "Propagating", "Feature"]
+
+Word: Compositional
+	- [Compositional (0)]: ["Compositional", "type-checking", "for", "delta-oriented", "programming"]
+	- [Compositional (1)]: ["Compositional", "type", "checking", "of", "delta-oriented", "software", "product", "lines"]
+
+Word: Conflict
+	- [Conflict (0)]:    ["Conflict", "Detection", "in", "Delta-Oriented", "Programming"]
+
+Word: Delta
+	- [Delta (0)]:       ["Delta", "Oriented", "Approach", "to", "the", "Evolution", "and", "Reconciliation", "of", "Enterprise", "Software", "Products", "Lines", "A"]
+	- [Delta (1)]:       ["Delta", "modeling", "for", "software", "architectures"]
+	- [Delta (2)]:       ["Delta", "modeling", "and", "model", "checking", "of", "product", "families"]
+
+Word: Delta-Based
+	- [Delta-Based (0)]: ["Delta-Based", "Modeling", "Framework", "for", "Software", "Product", "Line", "Engineering", "SiPL", "-", "A"]
+
+Word: Delta-Oriented
+	- [Delta-Oriented (0)]: ["Delta-Oriented", "product", "lines", "On", "type", "checking"]
+	- [Delta-Oriented (1)]: ["Delta-Oriented", "Product", "Lines", "to", "achieve", "Monotonicity", "Refactoring"]
+	- [Delta-Oriented (2)]: ["Delta-Oriented", "FSM-Based", "Testing"]
+	- [Delta-Oriented (3)]: ["Delta-Oriented", "Models", "Deployment", "Variability", "in"]
+	- [Delta-Oriented (4)]: ["Delta-Oriented", "Programming", "A", "Liskov", "Principle", "for"]
+	- [Delta-Oriented (5)]: ["Delta-Oriented", "Monitor", "Specification"]
+	- [Delta-Oriented (6)]: ["Delta-Oriented", "Programming", "Conflict", "Detection", "in"]
+	- [Delta-Oriented (7)]: ["Delta-Oriented", "Software", "Product", "Lines", "Family-Based", "Analysis", "of", "Type", "Safety", "for"]
+	- [Delta-Oriented (8)]: ["Delta-Oriented", "Software", "Product", "Line", "Architectures", "Evolving"]
+	- [Delta-Oriented (9)]: ["Delta-Oriented", "Software", "Product", "Lines", "Incremental", "Model-Based", "Testing", "of"]
+	- [Delta-Oriented (10)]: ["Delta-Oriented", "Slicing", "Verification", "of", "Software", "Product", "Lines", "with"]
+	- [Delta-Oriented (11)]: ["Delta-Oriented", "Programming", "of", "Software", "Product", "Lines"]
+	- [Delta-Oriented (12)]: ["Delta-Oriented", "Product", "Prioritization", "for", "Similarity-Based", "Product-Line", "Testing"]
+	- [Delta-Oriented (13)]: ["Delta-Oriented", "Programming", "for", "Evolving", "Software", "Product", "Lines", "Evaluating"]
+
+Word: Delta-oriented
+	- [Delta-oriented (0)]: ["Delta-oriented", "test", "case", "prioritization", "for", "integration", "testing", "ofsoftware", "product", "lines"]
+	- [Delta-oriented (1)]: ["Delta-oriented", "model-based", "integration", "testing", "of", "large-scale", "systems"]
+	- [Delta-oriented (2)]: ["Delta-oriented", "multi", "software", "product", "lines"]
+	- [Delta-oriented (3)]: ["Delta-oriented", "architectural", "variability", "using", "MontiCore"]
+	- [Delta-oriented (4)]: ["Delta-oriented", "model-based", "SPL", "regression", "testing"]
+
+Word: Delta-trait
+	- [Delta-trait (0)]: ["Delta-trait", "programming", "of", "software", "product", "lines"]
+
+Word: DeltaCCS:
+	- [DeltaCCS: (0)]:   ["DeltaCCS:", "A", "core", "calculus", "for", "behavioral", "change"]
+
+Word: DeltaJ
+	- [DeltaJ (0)]:      ["DeltaJ", "1.5:", "Propagating", "Feature", "Attributes", "into", "Implementation", "Artifacts", "Parametric"]
+	- [DeltaJ (1)]:      ["DeltaJ", "1.5:", "delta-oriented", "programming", "for", "Java", "1.5"]
+
+Word: Deployment
+	- [Deployment (0)]:  ["Deployment", "Variability", "in", "Delta-Oriented", "Models"]
+
+Word: Detection
+	- [Detection (0)]:   ["Detection", "in", "Delta-Oriented", "Programming", "Conflict"]
+
+Word: Dynamic
+	- [Dynamic (0)]:     ["Dynamic", "delta-oriented", "programming"]
+
+Word: Engineering
+	- [Engineering (0)]: ["Engineering", "SiPL", "-", "A", "Delta-Based", "Modeling", "Framework", "for", "Software", "Product", "Line"]
+	- [Engineering (1)]: ["Engineering", "delta", "modeling", "languages"]
+
+Word: Enterprise
+	- [Enterprise (0)]:  ["Enterprise", "Software", "Products", "Lines", "A", "Delta", "Oriented", "Approach", "to", "the", "Evolution", "and", "Reconciliation", "of"]
+
+Word: Evaluating
+	- [Evaluating (0)]:  ["Evaluating", "Delta-Oriented", "Programming", "for", "Evolving", "Software", "Product", "Lines"]
+
+Word: Evolution
+	- [Evolution (0)]:   ["Evolution", "and", "Reconciliation", "of", "Enterprise", "Software", "Products", "Lines", "A", "Delta", "Oriented", "Approach", "to", "the"]
+
+Word: Evolving
+	- [Evolving (0)]:    ["Evolving", "Delta-Oriented", "Software", "Product", "Line", "Architectures"]
+	- [Evolving (1)]:    ["Evolving", "Software", "Product", "Lines", "Evaluating", "Delta-Oriented", "Programming", "for"]
+
+Word: FSM-Based
+	- [FSM-Based (0)]:   ["FSM-Based", "Testing", "Delta-Oriented"]
+
+Word: Family-Based
+	- [Family-Based (0)]: ["Family-Based", "Analysis", "of", "Type", "Safety", "for", "Delta-Oriented", "Software", "Product", "Lines"]
+
+Word: Feature
+	- [Feature (0)]:     ["Feature", "Attributes", "into", "Implementation", "Artifacts", "Parametric", "DeltaJ", "1.5:", "Propagating"]
+
+Word: Fine-grained
+	- [Fine-grained (0)]: ["Fine-grained", "test", "case", "prioritization", "for", "integration", "testing", "of", "delta-oriented", "software", "product", "lines"]
+
+Word: Framework
+	- [Framework (0)]:   ["Framework", "for", "Software", "Product", "Line", "Engineering", "SiPL", "-", "A", "Delta-Based", "Modeling"]
+
+Word: Handling
+	- [Handling (0)]:    ["Handling", "database", "schema", "variability", "in", "software", "product", "lines"]
+
+Word: Implementation
+	- [Implementation (0)]: ["Implementation", "Artifacts", "Parametric", "DeltaJ", "1.5:", "Propagating", "Feature", "Attributes", "into"]
+
+Word: Implementing
+	- [Implementing (0)]: ["Implementing", "delta-oriented", "SPLs", "using", "PEoPL:", "An", "example", "scenario", "and", "case", "study"]
+
+Word: Incremental
+	- [Incremental (0)]: ["Incremental", "model", "checking", "of", "delta-oriented", "software", "product", "lines"]
+	- [Incremental (1)]: ["Incremental", "Model-Based", "Testing", "of", "Delta-Oriented", "Software", "Product", "Lines"]
+	- [Incremental (2)]: ["Incremental", "consistency", "checking", "in", "delta-oriented", "UML-models", "for", "automation", "systems"]
+	- [Incremental (3)]: ["Incremental", "variability", "management", "in", "conceptual", "data", "models", "of", "software", "product", "lines"]
+
+Word: Java
+	- [Java (0)]:        ["Java", "1.5", "DeltaJ", "1.5:", "delta-oriented", "programming", "for"]
+
+Word: Line
+	- [Line (0)]:        ["Line", "Architectures", "Evolving", "Delta-Oriented", "Software", "Product"]
+	- [Line (1)]:        ["Line", "Engineering", "SiPL", "-", "A", "Delta-Based", "Modeling", "Framework", "for", "Software", "Product"]
+
+Word: Lines
+	- [Lines (0)]:       ["Lines", "to", "achieve", "Monotonicity", "Refactoring", "Delta-Oriented", "Product"]
+	- [Lines (1)]:       ["Lines", "A", "Delta", "Oriented", "Approach", "to", "the", "Evolution", "and", "Reconciliation", "of", "Enterprise", "Software", "Products"]
+	- [Lines (2)]:       ["Lines", "Family-Based", "Analysis", "of", "Type", "Safety", "for", "Delta-Oriented", "Software", "Product"]
+	- [Lines (3)]:       ["Lines", "Incremental", "Model-Based", "Testing", "of", "Delta-Oriented", "Software", "Product"]
+	- [Lines (4)]:       ["Lines", "with", "Delta-Oriented", "Slicing", "Verification", "of", "Software", "Product"]
+	- [Lines (5)]:       ["Lines", "Delta-Oriented", "Programming", "of", "Software", "Product"]
+	- [Lines (6)]:       ["Lines", "Evaluating", "Delta-Oriented", "Programming", "for", "Evolving", "Software", "Product"]
+
+Word: Liskov
+	- [Liskov (0)]:      ["Liskov", "Principle", "for", "Delta-Oriented", "Programming", "A"]
+
+Word: Model-Based
+	- [Model-Based (0)]: ["Model-Based", "Testing", "of", "Delta-Oriented", "Software", "Product", "Lines", "Incremental"]
+
+Word: Modeling
+	- [Modeling (0)]:    ["Modeling", "Framework", "for", "Software", "Product", "Line", "Engineering", "SiPL", "-", "A", "Delta-Based"]
+
+Word: Models
+	- [Models (0)]:      ["Models", "Deployment", "Variability", "in", "Delta-Oriented"]
+
+Word: Monitor
+	- [Monitor (0)]:     ["Monitor", "Specification", "Delta-Oriented"]
+
+Word: Monotonicity
+	- [Monotonicity (0)]: ["Monotonicity", "Refactoring", "Delta-Oriented", "Product", "Lines", "to", "achieve"]
+
+Word: MontiCore
+	- [MontiCore (0)]:   ["MontiCore", "Delta-oriented", "architectural", "variability", "using"]
+
+Word: On
+	- [On (0)]:          ["On", "type", "checking", "Delta-Oriented", "product", "lines"]
+
+Word: Oriented
+	- [Oriented (0)]:    ["Oriented", "Approach", "to", "the", "Evolution", "and", "Reconciliation", "of", "Enterprise", "Software", "Products", "Lines", "A", "Delta"]
+
+Word: PEoPL:
+	- [PEoPL: (0)]:      ["PEoPL:", "An", "example", "scenario", "and", "case", "study", "Implementing", "delta-oriented", "SPLs", "using"]
+
+Word: Parametric
+	- [Parametric (0)]:  ["Parametric", "DeltaJ", "1.5:", "Propagating", "Feature", "Attributes", "into", "Implementation", "Artifacts"]
+
+Word: Principle
+	- [Principle (0)]:   ["Principle", "for", "Delta-Oriented", "Programming", "A", "Liskov"]
+
+Word: Prioritization
+	- [Prioritization (0)]: ["Prioritization", "for", "Similarity-Based", "Product-Line", "Testing", "Delta-Oriented", "Product"]
+
+Word: Product
+	- [Product (0)]:     ["Product", "Lines", "to", "achieve", "Monotonicity", "Refactoring", "Delta-Oriented"]
+	- [Product (1)]:     ["Product", "Lines", "Family-Based", "Analysis", "of", "Type", "Safety", "for", "Delta-Oriented", "Software"]
+	- [Product (2)]:     ["Product", "Line", "Architectures", "Evolving", "Delta-Oriented", "Software"]
+	- [Product (3)]:     ["Product", "Lines", "Incremental", "Model-Based", "Testing", "of", "Delta-Oriented", "Software"]
+	- [Product (4)]:     ["Product", "Lines", "with", "Delta-Oriented", "Slicing", "Verification", "of", "Software"]
+	- [Product (5)]:     ["Product", "Lines", "Delta-Oriented", "Programming", "of", "Software"]
+	- [Product (6)]:     ["Product", "Line", "Engineering", "SiPL", "-", "A", "Delta-Based", "Modeling", "Framework", "for", "Software"]
+	- [Product (7)]:     ["Product", "Prioritization", "for", "Similarity-Based", "Product-Line", "Testing", "Delta-Oriented"]
+	- [Product (8)]:     ["Product", "Lines", "Evaluating", "Delta-Oriented", "Programming", "for", "Evolving", "Software"]
+
+Word: Product-Line
+	- [Product-Line (0)]: ["Product-Line", "Testing", "Delta-Oriented", "Product", "Prioritization", "for", "Similarity-Based"]
+
+Word: Products
+	- [Products (0)]:    ["Products", "Lines", "A", "Delta", "Oriented", "Approach", "to", "the", "Evolution", "and", "Reconciliation", "of", "Enterprise", "Software"]
+
+Word: Programming
+	- [Programming (0)]: ["Programming", "A", "Liskov", "Principle", "for", "Delta-Oriented"]
+	- [Programming (1)]: ["Programming", "Conflict", "Detection", "in", "Delta-Oriented"]
+	- [Programming (2)]: ["Programming", "of", "Software", "Product", "Lines", "Delta-Oriented"]
+	- [Programming (3)]: ["Programming", "for", "Evolving", "Software", "Product", "Lines", "Evaluating", "Delta-Oriented"]
+
+Word: Propagating
+	- [Propagating (0)]: ["Propagating", "Feature", "Attributes", "into", "Implementation", "Artifacts", "Parametric", "DeltaJ", "1.5:"]
+
+Word: Pure
+	- [Pure (0)]:        ["Pure", "delta-oriented", "programming"]
+
+Word: Reconciliation
+	- [Reconciliation (0)]: ["Reconciliation", "of", "Enterprise", "Software", "Products", "Lines", "A", "Delta", "Oriented", "Approach", "to", "the", "Evolution", "and"]
+
+Word: Refactoring
+	- [Refactoring (0)]: ["Refactoring", "Delta-Oriented", "Product", "Lines", "to", "achieve", "Monotonicity"]
+	- [Refactoring (1)]: ["Refactoring", "delta-oriented", "software", "product", "lines"]
+	- [Refactoring (2)]: ["Refactoring", "delta-oriented", "product", "lines", "to", "enforce", "guidelines", "for", "efficient", "type-checking"]
+
+Word: Refinement-based
+	- [Refinement-based (0)]: ["Refinement-based", "testing", "of", "delta-oriented", "product", "lines"]
+
+Word: Requirements-based
+	- [Requirements-based (0)]: ["Requirements-based", "delta-oriented", "SPL", "testing"]
+
+Word: Row
+	- [Row (0)]:         ["Row", "types", "for", "delta-oriented", "programming"]
+
+Word: SPL
+	- [SPL (0)]:         ["SPL", "testing", "Requirements-based", "delta-oriented"]
+	- [SPL (1)]:         ["SPL", "regression", "testing", "Delta-oriented", "model-based"]
+
+Word: SPLs
+	- [SPLs (0)]:        ["SPLs", "using", "PEoPL:", "An", "example", "scenario", "and", "case", "study", "Implementing", "delta-oriented"]
+	- [SPLs (1)]:        ["SPLs", "A", "tool", "environment", "for", "quality", "assurance", "of", "delta-oriented", "model-based"]
+	- [SPLs (2)]:        ["SPLs", "An", "extension", "of", "the", "ABS", "toolchain", "with", "a", "mechanism", "for", "type", "checking"]
+
+Word: Safety
+	- [Safety (0)]:      ["Safety", "for", "Delta-Oriented", "Software", "Product", "Lines", "Family-Based", "Analysis", "of", "Type"]
+
+Word: SiPL
+	- [SiPL (0)]:        ["SiPL", "-", "A", "Delta-Based", "Modeling", "Framework", "for", "Software", "Product", "Line", "Engineering"]
+
+Word: Similarity-Based
+	- [Similarity-Based (0)]: ["Similarity-Based", "Product-Line", "Testing", "Delta-Oriented", "Product", "Prioritization", "for"]
+
+Word: Slicing
+	- [Slicing (0)]:     ["Slicing", "Verification", "of", "Software", "Product", "Lines", "with", "Delta-Oriented"]
+
+Word: Software
+	- [Software (0)]:    ["Software", "Products", "Lines", "A", "Delta", "Oriented", "Approach", "to", "the", "Evolution", "and", "Reconciliation", "of", "Enterprise"]
+	- [Software (1)]:    ["Software", "Product", "Lines", "Family-Based", "Analysis", "of", "Type", "Safety", "for", "Delta-Oriented"]
+	- [Software (2)]:    ["Software", "Product", "Line", "Architectures", "Evolving", "Delta-Oriented"]
+	- [Software (3)]:    ["Software", "Product", "Lines", "Incremental", "Model-Based", "Testing", "of", "Delta-Oriented"]
+	- [Software (4)]:    ["Software", "Product", "Lines", "with", "Delta-Oriented", "Slicing", "Verification", "of"]
+	- [Software (5)]:    ["Software", "Product", "Lines", "Delta-Oriented", "Programming", "of"]
+	- [Software (6)]:    ["Software", "Product", "Line", "Engineering", "SiPL", "-", "A", "Delta-Based", "Modeling", "Framework", "for"]
+	- [Software (7)]:    ["Software", "Product", "Lines", "Evaluating", "Delta-Oriented", "Programming", "for", "Evolving"]
+
+Word: Specification
+	- [Specification (0)]: ["Specification", "Delta-Oriented", "Monitor"]
+
+Word: Testing
+	- [Testing (0)]:     ["Testing", "Delta-Oriented", "FSM-Based"]
+	- [Testing (1)]:     ["Testing", "of", "Delta-Oriented", "Software", "Product", "Lines", "Incremental", "Model-Based"]
+	- [Testing (2)]:     ["Testing", "Delta-Oriented", "Product", "Prioritization", "for", "Similarity-Based", "Product-Line"]
+
+Word: Towards
+	- [Towards (0)]:     ["Towards", "incremental", "model", "slicing", "for", "delta-oriented", "software", "product", "lines"]
+	- [Towards (1)]:     ["Towards", "a", "development", "process", "for", "maturing", "delta-oriented", "software", "product", "lines"]
+
+Word: Type
+	- [Type (0)]:        ["Type", "Safety", "for", "Delta-Oriented", "Software", "Product", "Lines", "Family-Based", "Analysis", "of"]
+
+Word: UML
+	- [UML (0)]:         ["UML", "profile", "for", "delta-oriented", "programming", "to", "support", "software", "product", "line", "engineering", "A"]
+
+Word: UML-models
+	- [UML-models (0)]:  ["UML-models", "for", "automation", "systems", "Incremental", "consistency", "checking", "in", "delta-oriented"]
+
+Word: Unanticipated
+	- [Unanticipated (0)]: ["Unanticipated", "evolution", "in", "software", "product", "lines", "versus", "independent", "products:", "A", "case", "study"]
+
+Word: Variability
+	- [Variability (0)]: ["Variability", "in", "Delta-Oriented", "Models", "Deployment"]
+	- [Variability (1)]: ["Variability", "modelling", "in", "the", "ABS", "language"]
+
+Word: Verification
+	- [Verification (0)]: ["Verification", "of", "Software", "Product", "Lines", "with", "Delta-Oriented", "Slicing"]
+
+Word: a
+	- [a (0)]:           ["a", "mechanism", "for", "type", "checking", "SPLs", "An", "extension", "of", "the", "ABS", "toolchain", "with"]
+	- [a (1)]:           ["a", "development", "process", "for", "maturing", "delta-oriented", "software", "product", "lines", "Towards"]
+
+Word: achieve
+	- [achieve (0)]:     ["achieve", "Monotonicity", "Refactoring", "Delta-Oriented", "Product", "Lines", "to"]
+
+Word: and
+	- [and (0)]:         ["and", "Reconciliation", "of", "Enterprise", "Software", "Products", "Lines", "A", "Delta", "Oriented", "Approach", "to", "the", "Evolution"]
+	- [and (1)]:         ["and", "case", "study", "Implementing", "delta-oriented", "SPLs", "using", "PEoPL:", "An", "example", "scenario"]
+	- [and (2)]:         ["and", "model", "checking", "of", "product", "families", "Delta", "modeling"]
+	- [and (3)]:         ["and", "formal", "programming", "model", "for", "deltas", "and", "traits", "A", "unified"]
+	- [and (4)]:         ["and", "traits", "A", "unified", "and", "formal", "programming", "model", "for", "deltas"]
+
+Word: approach
+	- [approach (0)]:    ["approach", "for", "software", "product", "lines", "A", "novel", "model-based", "testing"]
+
+Word: architectural
+	- [architectural (0)]: ["architectural", "variability", "using", "MontiCore", "Delta-oriented"]
+
+Word: architectures
+	- [architectures (0)]: ["architectures", "Delta", "modeling", "for", "software"]
+
+Word: assurance
+	- [assurance (0)]:   ["assurance", "of", "delta-oriented", "model-based", "SPLs", "A", "tool", "environment", "for", "quality"]
+
+Word: automation
+	- [automation (0)]:  ["automation", "systems", "Incremental", "consistency", "checking", "in", "delta-oriented", "UML-models", "for"]
+
+Word: behavioral
+	- [behavioral (0)]:  ["behavioral", "change", "DeltaCCS:", "A", "core", "calculus", "for"]
+
+Word: calculus
+	- [calculus (0)]:    ["calculus", "for", "behavioral", "change", "DeltaCCS:", "A", "core"]
+
+Word: case
+	- [case (0)]:        ["case", "prioritization", "for", "integration", "testing", "ofsoftware", "product", "lines", "Delta-oriented", "test"]
+	- [case (1)]:        ["case", "prioritization", "for", "integration", "testing", "of", "delta-oriented", "software", "product", "lines", "Fine-grained", "test"]
+	- [case (2)]:        ["case", "study", "Implementing", "delta-oriented", "SPLs", "using", "PEoPL:", "An", "example", "scenario", "and"]
+	- [case (3)]:        ["case", "study", "Unanticipated", "evolution", "in", "software", "product", "lines", "versus", "independent", "products:", "A"]
+
+Word: change
+	- [change (0)]:      ["change", "DeltaCCS:", "A", "core", "calculus", "for", "behavioral"]
+
+Word: checking
+	- [checking (0)]:    ["checking", "of", "delta-oriented", "software", "product", "lines", "Incremental", "model"]
+	- [checking (1)]:    ["checking", "Delta-Oriented", "product", "lines", "On", "type"]
+	- [checking (2)]:    ["checking", "in", "delta-oriented", "UML-models", "for", "automation", "systems", "Incremental", "consistency"]
+	- [checking (3)]:    ["checking", "of", "delta-oriented", "software", "product", "lines", "Compositional", "type"]
+	- [checking (4)]:    ["checking", "of", "product", "families", "Delta", "modeling", "and", "model"]
+	- [checking (5)]:    ["checking", "SPLs", "An", "extension", "of", "the", "ABS", "toolchain", "with", "a", "mechanism", "for", "type"]
+
+Word: conceptual
+	- [conceptual (0)]:  ["conceptual", "data", "models", "of", "software", "product", "lines", "Incremental", "variability", "management", "in"]
+
+Word: consistency
+	- [consistency (0)]: ["consistency", "checking", "in", "delta-oriented", "UML-models", "for", "automation", "systems", "Incremental"]
+
+Word: core
+	- [core (0)]:        ["core", "calculus", "for", "behavioral", "change", "DeltaCCS:", "A"]
+
+Word: data
+	- [data (0)]:        ["data", "models", "of", "software", "product", "lines", "Incremental", "variability", "management", "in", "conceptual"]
+
+Word: database
+	- [database (0)]:    ["database", "schema", "variability", "in", "software", "product", "lines", "Handling"]
+
+Word: delta
+	- [delta (0)]:       ["delta", "modeling", "languages", "Engineering"]
+
+Word: delta-oriented
+	- [delta-oriented (0)]: ["delta-oriented", "software", "product", "lines", "Incremental", "model", "checking", "of"]
+	- [delta-oriented (1)]: ["delta-oriented", "software", "product", "lines", "Towards", "incremental", "model", "slicing", "for"]
+	- [delta-oriented (2)]: ["delta-oriented", "programming", "for", "Java", "1.5", "DeltaJ", "1.5:"]
+	- [delta-oriented (3)]: ["delta-oriented", "software", "product", "lines", "Refactoring"]
+	- [delta-oriented (4)]: ["delta-oriented", "product", "lines", "Refinement-based", "testing", "of"]
+	- [delta-oriented (5)]: ["delta-oriented", "software", "product", "lines", "A", "formal", "foundation", "for", "dynamic"]
+	- [delta-oriented (6)]: ["delta-oriented", "programming", "A", "transformational", "proof", "system", "for"]
+	- [delta-oriented (7)]: ["delta-oriented", "programming", "Compositional", "type-checking", "for"]
+	- [delta-oriented (8)]: ["delta-oriented", "programming", "Dynamic"]
+	- [delta-oriented (9)]: ["delta-oriented", "programming", "Pure"]
+	- [delta-oriented (10)]: ["delta-oriented", "programming", "to", "support", "software", "product", "line", "engineering", "A", "UML", "profile", "for"]
+	- [delta-oriented (11)]: ["delta-oriented", "software", "product", "lines", "Fine-grained", "test", "case", "prioritization", "for", "integration", "testing", "of"]
+	- [delta-oriented (12)]: ["delta-oriented", "SPLs", "using", "PEoPL:", "An", "example", "scenario", "and", "case", "study", "Implementing"]
+	- [delta-oriented (13)]: ["delta-oriented", "UML-models", "for", "automation", "systems", "Incremental", "consistency", "checking", "in"]
+	- [delta-oriented (14)]: ["delta-oriented", "product", "lines", "to", "enforce", "guidelines", "for", "efficient", "type-checking", "Refactoring"]
+	- [delta-oriented (15)]: ["delta-oriented", "software", "product", "lines", "Compositional", "type", "checking", "of"]
+	- [delta-oriented (16)]: ["delta-oriented", "SPL", "testing", "Requirements-based"]
+	- [delta-oriented (17)]: ["delta-oriented", "programming", "Row", "types", "for"]
+	- [delta-oriented (18)]: ["delta-oriented", "model-based", "SPLs", "A", "tool", "environment", "for", "quality", "assurance", "of"]
+	- [delta-oriented (19)]: ["delta-oriented", "software", "product", "lines", "Towards", "a", "development", "process", "for", "maturing"]
+
+Word: deltas
+	- [deltas (0)]:      ["deltas", "and", "traits", "A", "unified", "and", "formal", "programming", "model", "for"]
+
+Word: development
+	- [development (0)]: ["development", "process", "for", "maturing", "delta-oriented", "software", "product", "lines", "Towards", "a"]
+
+Word: dynamic
+	- [dynamic (0)]:     ["dynamic", "delta-oriented", "software", "product", "lines", "A", "formal", "foundation", "for"]
+
+Word: efficient
+	- [efficient (0)]:   ["efficient", "type-checking", "Refactoring", "delta-oriented", "product", "lines", "to", "enforce", "guidelines", "for"]
+
+Word: enforce
+	- [enforce (0)]:     ["enforce", "guidelines", "for", "efficient", "type-checking", "Refactoring", "delta-oriented", "product", "lines", "to"]
+
+Word: engineering
+	- [engineering (0)]: ["engineering", "A", "UML", "profile", "for", "delta-oriented", "programming", "to", "support", "software", "product", "line"]
+
+Word: environment
+	- [environment (0)]: ["environment", "for", "quality", "assurance", "of", "delta-oriented", "model-based", "SPLs", "A", "tool"]
+
+Word: evolution
+	- [evolution (0)]:   ["evolution", "in", "software", "product", "lines", "versus", "independent", "products:", "A", "case", "study", "Unanticipated"]
+
+Word: example
+	- [example (0)]:     ["example", "scenario", "and", "case", "study", "Implementing", "delta-oriented", "SPLs", "using", "PEoPL:", "An"]
+
+Word: extension
+	- [extension (0)]:   ["extension", "of", "the", "ABS", "toolchain", "with", "a", "mechanism", "for", "type", "checking", "SPLs", "An"]
+
+Word: families
+	- [families (0)]:    ["families", "Delta", "modeling", "and", "model", "checking", "of", "product"]
+
+Word: for
+	- [for (0)]:         ["for", "integration", "testing", "ofsoftware", "product", "lines", "Delta-oriented", "test", "case", "prioritization"]
+	- [for (1)]:         ["for", "delta-oriented", "software", "product", "lines", "Towards", "incremental", "model", "slicing"]
+	- [for (2)]:         ["for", "Java", "1.5", "DeltaJ", "1.5:", "delta-oriented", "programming"]
+	- [for (3)]:         ["for", "dynamic", "delta-oriented", "software", "product", "lines", "A", "formal", "foundation"]
+	- [for (4)]:         ["for", "Delta-Oriented", "Programming", "A", "Liskov", "Principle"]
+	- [for (5)]:         ["for", "Delta-Oriented", "Software", "Product", "Lines", "Family-Based", "Analysis", "of", "Type", "Safety"]
+	- [for (6)]:         ["for", "delta-oriented", "programming", "A", "transformational", "proof", "system"]
+	- [for (7)]:         ["for", "delta-oriented", "programming", "Compositional", "type-checking"]
+	- [for (8)]:         ["for", "Software", "Product", "Line", "Engineering", "SiPL", "-", "A", "Delta-Based", "Modeling", "Framework"]
+	- [for (9)]:         ["for", "software", "architectures", "Delta", "modeling"]
+	- [for (10)]:         ["for", "software", "product", "lines", "A", "novel", "model-based", "testing", "approach"]
+	- [for (11)]:         ["for", "delta-oriented", "programming", "to", "support", "software", "product", "line", "engineering", "A", "UML", "profile"]
+	- [for (12)]:         ["for", "integration", "testing", "of", "delta-oriented", "software", "product", "lines", "Fine-grained", "test", "case", "prioritization"]
+	- [for (13)]:         ["for", "automation", "systems", "Incremental", "consistency", "checking", "in", "delta-oriented", "UML-models"]
+	- [for (14)]:         ["for", "efficient", "type-checking", "Refactoring", "delta-oriented", "product", "lines", "to", "enforce", "guidelines"]
+	- [for (15)]:         ["for", "behavioral", "change", "DeltaCCS:", "A", "core", "calculus"]
+	- [for (16)]:         ["for", "delta-oriented", "programming", "Row", "types"]
+	- [for (17)]:         ["for", "quality", "assurance", "of", "delta-oriented", "model-based", "SPLs", "A", "tool", "environment"]
+	- [for (18)]:         ["for", "deltas", "and", "traits", "A", "unified", "and", "formal", "programming", "model"]
+	- [for (19)]:         ["for", "type", "checking", "SPLs", "An", "extension", "of", "the", "ABS", "toolchain", "with", "a", "mechanism"]
+	- [for (20)]:         ["for", "Similarity-Based", "Product-Line", "Testing", "Delta-Oriented", "Product", "Prioritization"]
+	- [for (21)]:         ["for", "Evolving", "Software", "Product", "Lines", "Evaluating", "Delta-Oriented", "Programming"]
+	- [for (22)]:         ["for", "maturing", "delta-oriented", "software", "product", "lines", "Towards", "a", "development", "process"]
+
+Word: formal
+	- [formal (0)]:      ["formal", "foundation", "for", "dynamic", "delta-oriented", "software", "product", "lines", "A"]
+	- [formal (1)]:      ["formal", "programming", "model", "for", "deltas", "and", "traits", "A", "unified", "and"]
+
+Word: foundation
+	- [foundation (0)]:  ["foundation", "for", "dynamic", "delta-oriented", "software", "product", "lines", "A", "formal"]
+
+Word: guidelines
+	- [guidelines (0)]:  ["guidelines", "for", "efficient", "type-checking", "Refactoring", "delta-oriented", "product", "lines", "to", "enforce"]
+
+Word: in
+	- [in (0)]:          ["in", "Delta-Oriented", "Models", "Deployment", "Variability"]
+	- [in (1)]:          ["in", "Delta-Oriented", "Programming", "Conflict", "Detection"]
+	- [in (2)]:          ["in", "software", "product", "lines", "Handling", "database", "schema", "variability"]
+	- [in (3)]:          ["in", "the", "ABS", "language", "Variability", "modelling"]
+	- [in (4)]:          ["in", "delta-oriented", "UML-models", "for", "automation", "systems", "Incremental", "consistency", "checking"]
+	- [in (5)]:          ["in", "conceptual", "data", "models", "of", "software", "product", "lines", "Incremental", "variability", "management"]
+	- [in (6)]:          ["in", "software", "product", "lines", "versus", "independent", "products:", "A", "case", "study", "Unanticipated", "evolution"]
+
+Word: incremental
+	- [incremental (0)]: ["incremental", "model", "slicing", "for", "delta-oriented", "software", "product", "lines", "Towards"]
+
+Word: independent
+	- [independent (0)]: ["independent", "products:", "A", "case", "study", "Unanticipated", "evolution", "in", "software", "product", "lines", "versus"]
+
+Word: integration
+	- [integration (0)]: ["integration", "testing", "ofsoftware", "product", "lines", "Delta-oriented", "test", "case", "prioritization", "for"]
+	- [integration (1)]: ["integration", "testing", "of", "large-scale", "systems", "Delta-oriented", "model-based"]
+	- [integration (2)]: ["integration", "testing", "of", "delta-oriented", "software", "product", "lines", "Fine-grained", "test", "case", "prioritization", "for"]
+
+Word: into
+	- [into (0)]:        ["into", "Implementation", "Artifacts", "Parametric", "DeltaJ", "1.5:", "Propagating", "Feature", "Attributes"]
+
+Word: language
+	- [language (0)]:    ["language", "Variability", "modelling", "in", "the", "ABS"]
+
+Word: languages
+	- [languages (0)]:   ["languages", "Engineering", "delta", "modeling"]
+
+Word: large-scale
+	- [large-scale (0)]: ["large-scale", "systems", "Delta-oriented", "model-based", "integration", "testing", "of"]
+
+Word: line
+	- [line (0)]:        ["line", "engineering", "A", "UML", "profile", "for", "delta-oriented", "programming", "to", "support", "software", "product"]
+
+Word: lines
+	- [lines (0)]:       ["lines", "Incremental", "model", "checking", "of", "delta-oriented", "software", "product"]
+	- [lines (1)]:       ["lines", "On", "type", "checking", "Delta-Oriented", "product"]
+	- [lines (2)]:       ["lines", "Delta-oriented", "test", "case", "prioritization", "for", "integration", "testing", "ofsoftware", "product"]
+	- [lines (3)]:       ["lines", "Towards", "incremental", "model", "slicing", "for", "delta-oriented", "software", "product"]
+	- [lines (4)]:       ["lines", "Delta-oriented", "multi", "software", "product"]
+	- [lines (5)]:       ["lines", "Refactoring", "delta-oriented", "software", "product"]
+	- [lines (6)]:       ["lines", "Refinement-based", "testing", "of", "delta-oriented", "product"]
+	- [lines (7)]:       ["lines", "A", "formal", "foundation", "for", "dynamic", "delta-oriented", "software", "product"]
+	- [lines (8)]:       ["lines", "Handling", "database", "schema", "variability", "in", "software", "product"]
+	- [lines (9)]:       ["lines", "A", "novel", "model-based", "testing", "approach", "for", "software", "product"]
+	- [lines (10)]:       ["lines", "Fine-grained", "test", "case", "prioritization", "for", "integration", "testing", "of", "delta-oriented", "software", "product"]
+	- [lines (11)]:       ["lines", "Incremental", "variability", "management", "in", "conceptual", "data", "models", "of", "software", "product"]
+	- [lines (12)]:       ["lines", "to", "enforce", "guidelines", "for", "efficient", "type-checking", "Refactoring", "delta-oriented", "product"]
+	- [lines (13)]:       ["lines", "Delta-trait", "programming", "of", "software", "product"]
+	- [lines (14)]:       ["lines", "Compositional", "type", "checking", "of", "delta-oriented", "software", "product"]
+	- [lines (15)]:       ["lines", "Towards", "a", "development", "process", "for", "maturing", "delta-oriented", "software", "product"]
+	- [lines (16)]:       ["lines", "versus", "independent", "products:", "A", "case", "study", "Unanticipated", "evolution", "in", "software", "product"]
+
+Word: management
+	- [management (0)]:  ["management", "in", "conceptual", "data", "models", "of", "software", "product", "lines", "Incremental", "variability"]
+
+Word: maturing
+	- [maturing (0)]:    ["maturing", "delta-oriented", "software", "product", "lines", "Towards", "a", "development", "process", "for"]
+
+Word: mechanism
+	- [mechanism (0)]:   ["mechanism", "for", "type", "checking", "SPLs", "An", "extension", "of", "the", "ABS", "toolchain", "with", "a"]
+
+Word: model
+	- [model (0)]:       ["model", "checking", "of", "delta-oriented", "software", "product", "lines", "Incremental"]
+	- [model (1)]:       ["model", "slicing", "for", "delta-oriented", "software", "product", "lines", "Towards", "incremental"]
+	- [model (2)]:       ["model", "checking", "of", "product", "families", "Delta", "modeling", "and"]
+	- [model (3)]:       ["model", "for", "deltas", "and", "traits", "A", "unified", "and", "formal", "programming"]
+
+Word: model-based
+	- [model-based (0)]: ["model-based", "integration", "testing", "of", "large-scale", "systems", "Delta-oriented"]
+	- [model-based (1)]: ["model-based", "testing", "approach", "for", "software", "product", "lines", "A", "novel"]
+	- [model-based (2)]: ["model-based", "SPL", "regression", "testing", "Delta-oriented"]
+	- [model-based (3)]: ["model-based", "SPLs", "A", "tool", "environment", "for", "quality", "assurance", "of", "delta-oriented"]
+
+Word: modeling
+	- [modeling (0)]:    ["modeling", "for", "software", "architectures", "Delta"]
+	- [modeling (1)]:    ["modeling", "languages", "Engineering", "delta"]
+	- [modeling (2)]:    ["modeling", "and", "model", "checking", "of", "product", "families", "Delta"]
+
+Word: modelling
+	- [modelling (0)]:   ["modelling", "in", "the", "ABS", "language", "Variability"]
+
+Word: models
+	- [models (0)]:      ["models", "of", "software", "product", "lines", "Incremental", "variability", "management", "in", "conceptual", "data"]
+
+Word: multi
+	- [multi (0)]:       ["multi", "software", "product", "lines", "Delta-oriented"]
+
+Word: novel
+	- [novel (0)]:       ["novel", "model-based", "testing", "approach", "for", "software", "product", "lines", "A"]
+
+Word: of
+	- [of (0)]:          ["of", "delta-oriented", "software", "product", "lines", "Incremental", "model", "checking"]
+	- [of (1)]:          ["of", "large-scale", "systems", "Delta-oriented", "model-based", "integration", "testing"]
+	- [of (2)]:          ["of", "Enterprise", "Software", "Products", "Lines", "A", "Delta", "Oriented", "Approach", "to", "the", "Evolution", "and", "Reconciliation"]
+	- [of (3)]:          ["of", "delta-oriented", "product", "lines", "Refinement-based", "testing"]
+	- [of (4)]:          ["of", "Type", "Safety", "for", "Delta-Oriented", "Software", "Product", "Lines", "Family-Based", "Analysis"]
+	- [of (5)]:          ["of", "Delta-Oriented", "Software", "Product", "Lines", "Incremental", "Model-Based", "Testing"]
+	- [of (6)]:          ["of", "Software", "Product", "Lines", "with", "Delta-Oriented", "Slicing", "Verification"]
+	- [of (7)]:          ["of", "Software", "Product", "Lines", "Delta-Oriented", "Programming"]
+	- [of (8)]:          ["of", "delta-oriented", "software", "product", "lines", "Fine-grained", "test", "case", "prioritization", "for", "integration", "testing"]
+	- [of (9)]:          ["of", "software", "product", "lines", "Incremental", "variability", "management", "in", "conceptual", "data", "models"]
+	- [of (10)]:          ["of", "software", "product", "lines", "Delta-trait", "programming"]
+	- [of (11)]:          ["of", "delta-oriented", "software", "product", "lines", "Compositional", "type", "checking"]
+	- [of (12)]:          ["of", "product", "families", "Delta", "modeling", "and", "model", "checking"]
+	- [of (13)]:          ["of", "delta-oriented", "model-based", "SPLs", "A", "tool", "environment", "for", "quality", "assurance"]
+	- [of (14)]:          ["of", "the", "ABS", "toolchain", "with", "a", "mechanism", "for", "type", "checking", "SPLs", "An", "extension"]
+
+Word: ofsoftware
+	- [ofsoftware (0)]:  ["ofsoftware", "product", "lines", "Delta-oriented", "test", "case", "prioritization", "for", "integration", "testing"]
+
+Word: prioritization
+	- [prioritization (0)]: ["prioritization", "for", "integration", "testing", "ofsoftware", "product", "lines", "Delta-oriented", "test", "case"]
+	- [prioritization (1)]: ["prioritization", "for", "integration", "testing", "of", "delta-oriented", "software", "product", "lines", "Fine-grained", "test", "case"]
+
+Word: process
+	- [process (0)]:     ["process", "for", "maturing", "delta-oriented", "software", "product", "lines", "Towards", "a", "development"]
+
+Word: product
+	- [product (0)]:     ["product", "lines", "Incremental", "model", "checking", "of", "delta-oriented", "software"]
+	- [product (1)]:     ["product", "lines", "On", "type", "checking", "Delta-Oriented"]
+	- [product (2)]:     ["product", "lines", "Delta-oriented", "test", "case", "prioritization", "for", "integration", "testing", "ofsoftware"]
+	- [product (3)]:     ["product", "lines", "Towards", "incremental", "model", "slicing", "for", "delta-oriented", "software"]
+	- [product (4)]:     ["product", "lines", "Delta-oriented", "multi", "software"]
+	- [product (5)]:     ["product", "lines", "Refactoring", "delta-oriented", "software"]
+	- [product (6)]:     ["product", "lines", "Refinement-based", "testing", "of", "delta-oriented"]
+	- [product (7)]:     ["product", "lines", "A", "formal", "foundation", "for", "dynamic", "delta-oriented", "software"]
+	- [product (8)]:     ["product", "lines", "Handling", "database", "schema", "variability", "in", "software"]
+	- [product (9)]:     ["product", "lines", "A", "novel", "model-based", "testing", "approach", "for", "software"]
+	- [product (10)]:     ["product", "line", "engineering", "A", "UML", "profile", "for", "delta-oriented", "programming", "to", "support", "software"]
+	- [product (11)]:     ["product", "lines", "Fine-grained", "test", "case", "prioritization", "for", "integration", "testing", "of", "delta-oriented", "software"]
+	- [product (12)]:     ["product", "lines", "Incremental", "variability", "management", "in", "conceptual", "data", "models", "of", "software"]
+	- [product (13)]:     ["product", "lines", "to", "enforce", "guidelines", "for", "efficient", "type-checking", "Refactoring", "delta-oriented"]
+	- [product (14)]:     ["product", "lines", "Delta-trait", "programming", "of", "software"]
+	- [product (15)]:     ["product", "lines", "Compositional", "type", "checking", "of", "delta-oriented", "software"]
+	- [product (16)]:     ["product", "families", "Delta", "modeling", "and", "model", "checking", "of"]
+	- [product (17)]:     ["product", "lines", "Towards", "a", "development", "process", "for", "maturing", "delta-oriented", "software"]
+	- [product (18)]:     ["product", "lines", "versus", "independent", "products:", "A", "case", "study", "Unanticipated", "evolution", "in", "software"]
+
+Word: products:
+	- [products: (0)]:   ["products:", "A", "case", "study", "Unanticipated", "evolution", "in", "software", "product", "lines", "versus", "independent"]
+
+Word: profile
+	- [profile (0)]:     ["profile", "for", "delta-oriented", "programming", "to", "support", "software", "product", "line", "engineering", "A", "UML"]
+
+Word: programming
+	- [programming (0)]: ["programming", "for", "Java", "1.5", "DeltaJ", "1.5:", "delta-oriented"]
+	- [programming (1)]: ["programming", "A", "transformational", "proof", "system", "for", "delta-oriented"]
+	- [programming (2)]: ["programming", "Compositional", "type-checking", "for", "delta-oriented"]
+	- [programming (3)]: ["programming", "Dynamic", "delta-oriented"]
+	- [programming (4)]: ["programming", "Pure", "delta-oriented"]
+	- [programming (5)]: ["programming", "to", "support", "software", "product", "line", "engineering", "A", "UML", "profile", "for", "delta-oriented"]
+	- [programming (6)]: ["programming", "of", "software", "product", "lines", "Delta-trait"]
+	- [programming (7)]: ["programming", "Row", "types", "for", "delta-oriented"]
+	- [programming (8)]: ["programming", "model", "for", "deltas", "and", "traits", "A", "unified", "and", "formal"]
+
+Word: proof
+	- [proof (0)]:       ["proof", "system", "for", "delta-oriented", "programming", "A", "transformational"]
+
+Word: quality
+	- [quality (0)]:     ["quality", "assurance", "of", "delta-oriented", "model-based", "SPLs", "A", "tool", "environment", "for"]
+
+Word: regression
+	- [regression (0)]:  ["regression", "testing", "Delta-oriented", "model-based", "SPL"]
+
+Word: scenario
+	- [scenario (0)]:    ["scenario", "and", "case", "study", "Implementing", "delta-oriented", "SPLs", "using", "PEoPL:", "An", "example"]
+
+Word: schema
+	- [schema (0)]:      ["schema", "variability", "in", "software", "product", "lines", "Handling", "database"]
+
+Word: slicing
+	- [slicing (0)]:     ["slicing", "for", "delta-oriented", "software", "product", "lines", "Towards", "incremental", "model"]
+
+Word: software
+	- [software (0)]:    ["software", "product", "lines", "Incremental", "model", "checking", "of", "delta-oriented"]
+	- [software (1)]:    ["software", "product", "lines", "Towards", "incremental", "model", "slicing", "for", "delta-oriented"]
+	- [software (2)]:    ["software", "product", "lines", "Delta-oriented", "multi"]
+	- [software (3)]:    ["software", "product", "lines", "Refactoring", "delta-oriented"]
+	- [software (4)]:    ["software", "product", "lines", "A", "formal", "foundation", "for", "dynamic", "delta-oriented"]
+	- [software (5)]:    ["software", "architectures", "Delta", "modeling", "for"]
+	- [software (6)]:    ["software", "product", "lines", "Handling", "database", "schema", "variability", "in"]
+	- [software (7)]:    ["software", "product", "lines", "A", "novel", "model-based", "testing", "approach", "for"]
+	- [software (8)]:    ["software", "product", "line", "engineering", "A", "UML", "profile", "for", "delta-oriented", "programming", "to", "support"]
+	- [software (9)]:    ["software", "product", "lines", "Fine-grained", "test", "case", "prioritization", "for", "integration", "testing", "of", "delta-oriented"]
+	- [software (10)]:    ["software", "product", "lines", "Incremental", "variability", "management", "in", "conceptual", "data", "models", "of"]
+	- [software (11)]:    ["software", "product", "lines", "Delta-trait", "programming", "of"]
+	- [software (12)]:    ["software", "product", "lines", "Compositional", "type", "checking", "of", "delta-oriented"]
+	- [software (13)]:    ["software", "product", "lines", "Towards", "a", "development", "process", "for", "maturing", "delta-oriented"]
+	- [software (14)]:    ["software", "product", "lines", "versus", "independent", "products:", "A", "case", "study", "Unanticipated", "evolution", "in"]
+
+Word: study
+	- [study (0)]:       ["study", "Implementing", "delta-oriented", "SPLs", "using", "PEoPL:", "An", "example", "scenario", "and", "case"]
+	- [study (1)]:       ["study", "Unanticipated", "evolution", "in", "software", "product", "lines", "versus", "independent", "products:", "A", "case"]
+
+Word: support
+	- [support (0)]:     ["support", "software", "product", "line", "engineering", "A", "UML", "profile", "for", "delta-oriented", "programming", "to"]
+
+Word: system
+	- [system (0)]:      ["system", "for", "delta-oriented", "programming", "A", "transformational", "proof"]
+
+Word: systems
+	- [systems (0)]:     ["systems", "Delta-oriented", "model-based", "integration", "testing", "of", "large-scale"]
+	- [systems (1)]:     ["systems", "Incremental", "consistency", "checking", "in", "delta-oriented", "UML-models", "for", "automation"]
+
+Word: test
+	- [test (0)]:        ["test", "case", "prioritization", "for", "integration", "testing", "ofsoftware", "product", "lines", "Delta-oriented"]
+	- [test (1)]:        ["test", "case", "prioritization", "for", "integration", "testing", "of", "delta-oriented", "software", "product", "lines", "Fine-grained"]
+
+Word: testing
+	- [testing (0)]:     ["testing", "ofsoftware", "product", "lines", "Delta-oriented", "test", "case", "prioritization", "for", "integration"]
+	- [testing (1)]:     ["testing", "of", "large-scale", "systems", "Delta-oriented", "model-based", "integration"]
+	- [testing (2)]:     ["testing", "of", "delta-oriented", "product", "lines", "Refinement-based"]
+	- [testing (3)]:     ["testing", "approach", "for", "software", "product", "lines", "A", "novel", "model-based"]
+	- [testing (4)]:     ["testing", "of", "delta-oriented", "software", "product", "lines", "Fine-grained", "test", "case", "prioritization", "for", "integration"]
+	- [testing (5)]:     ["testing", "Requirements-based", "delta-oriented", "SPL"]
+	- [testing (6)]:     ["testing", "Delta-oriented", "model-based", "SPL", "regression"]
+
+Word: the
+	- [the (0)]:         ["the", "Evolution", "and", "Reconciliation", "of", "Enterprise", "Software", "Products", "Lines", "A", "Delta", "Oriented", "Approach", "to"]
+	- [the (1)]:         ["the", "ABS", "language", "Variability", "modelling", "in"]
+	- [the (2)]:         ["the", "ABS", "toolchain", "with", "a", "mechanism", "for", "type", "checking", "SPLs", "An", "extension", "of"]
+
+Word: to
+	- [to (0)]:          ["to", "achieve", "Monotonicity", "Refactoring", "Delta-Oriented", "Product", "Lines"]
+	- [to (1)]:          ["to", "the", "Evolution", "and", "Reconciliation", "of", "Enterprise", "Software", "Products", "Lines", "A", "Delta", "Oriented", "Approach"]
+	- [to (2)]:          ["to", "support", "software", "product", "line", "engineering", "A", "UML", "profile", "for", "delta-oriented", "programming"]
+	- [to (3)]:          ["to", "enforce", "guidelines", "for", "efficient", "type-checking", "Refactoring", "delta-oriented", "product", "lines"]
+
+Word: tool
+	- [tool (0)]:        ["tool", "environment", "for", "quality", "assurance", "of", "delta-oriented", "model-based", "SPLs", "A"]
+
+Word: toolchain
+	- [toolchain (0)]:   ["toolchain", "with", "a", "mechanism", "for", "type", "checking", "SPLs", "An", "extension", "of", "the", "ABS"]
+
+Word: traits
+	- [traits (0)]:      ["traits", "A", "unified", "and", "formal", "programming", "model", "for", "deltas", "and"]
+
+Word: transformational
+	- [transformational (0)]: ["transformational", "proof", "system", "for", "delta-oriented", "programming", "A"]
+
+Word: type
+	- [type (0)]:        ["type", "checking", "Delta-Oriented", "product", "lines", "On"]
+	- [type (1)]:        ["type", "checking", "of", "delta-oriented", "software", "product", "lines", "Compositional"]
+	- [type (2)]:        ["type", "checking", "SPLs", "An", "extension", "of", "the", "ABS", "toolchain", "with", "a", "mechanism", "for"]
+
+Word: type-checking
+	- [type-checking (0)]: ["type-checking", "for", "delta-oriented", "programming", "Compositional"]
+	- [type-checking (1)]: ["type-checking", "Refactoring", "delta-oriented", "product", "lines", "to", "enforce", "guidelines", "for", "efficient"]
+
+Word: types
+	- [types (0)]:       ["types", "for", "delta-oriented", "programming", "Row"]
+
+Word: unified
+	- [unified (0)]:     ["unified", "and", "formal", "programming", "model", "for", "deltas", "and", "traits", "A"]
+
+Word: using
+	- [using (0)]:       ["using", "MontiCore", "Delta-oriented", "architectural", "variability"]
+	- [using (1)]:       ["using", "PEoPL:", "An", "example", "scenario", "and", "case", "study", "Implementing", "delta-oriented", "SPLs"]
+
+Word: variability
+	- [variability (0)]: ["variability", "using", "MontiCore", "Delta-oriented", "architectural"]
+	- [variability (1)]: ["variability", "in", "software", "product", "lines", "Handling", "database", "schema"]
+	- [variability (2)]: ["variability", "management", "in", "conceptual", "data", "models", "of", "software", "product", "lines", "Incremental"]
+
+Word: versus
+	- [versus (0)]:      ["versus", "independent", "products:", "A", "case", "study", "Unanticipated", "evolution", "in", "software", "product", "lines"]
+
+Word: with
+	- [with (0)]:        ["with", "Delta-Oriented", "Slicing", "Verification", "of", "Software", "Product", "Lines"]
+	- [with (1)]:        ["with", "a", "mechanism", "for", "type", "checking", "SPLs", "An", "extension", "of", "the", "ABS", "toolchain"]
