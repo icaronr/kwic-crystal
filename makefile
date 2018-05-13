@@ -7,7 +7,7 @@ ARGS       = $(INPUTFILE) $(OUTPUTFILE) $(STOPWORDS)
 # possisveis flags de entrada:
 ENTRADA = 
 # possiveis flags de saida: 
-TERMINAL = --define terminal
+#TERMINAL = --define terminal
 ARQUIVO = --define arquivo
 
 FLAGS	= $(ENTRADA) $(TERMINAL) $(ARQUIVO)
